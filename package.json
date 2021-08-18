@@ -14,8 +14,9 @@
     "jest": "^27.0.6"
   },
   "husky": {
-    "hooks":{
+    "hooks": {
       "pre-commit": "npm test"
     }
-  }  
+  },
+  "dependencies": {}
 }
